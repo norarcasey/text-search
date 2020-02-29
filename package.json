@@ -1,0 +1,19 @@
+{
+  "name": "text-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jcmckay/text-search.git",
+  "author": "Justin McKay <1891757+jcmckay@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "babel-jest": "^25.1.0"
+  }
+}
